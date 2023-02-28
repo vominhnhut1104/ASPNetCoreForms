@@ -13,8 +13,18 @@ namespace ASPNetCoreForms.Controllers
         [HttpGet]
         public IActionResult Create()
         {
+            // model = new ProductEditModel();
+            // View(model);
             return View();
         }
+
+        public IActionResult Edit()
+        {
+            var  model = new ProductEditModel();
+             View(model);
+            return View(model);
+        }
+
 
         [HttpPost]
         public IActionResult Create(ProductEditModel model) //
