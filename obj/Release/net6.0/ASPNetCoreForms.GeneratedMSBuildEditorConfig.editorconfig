@@ -8,25 +8,21 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ASPNetCoreForms
 build_property.RootNamespace = ASPNetCoreForms
-build_property.ProjectDir = D:\CongNgheNet\sample\MVCCoreWebApp-bai13\ASPNetCoreForms\
+build_property.ProjectDir = D:\CongNgheNet\sample\MVCCoreWebApp\ASPNetCoreForms\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\CongNgheNet\sample\MVCCoreWebApp-bai13\ASPNetCoreForms
+build_property.MSBuildProjectDirectory = D:\CongNgheNet\sample\MVCCoreWebApp\ASPNetCoreForms
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/CongNgheNet/sample/MVCCoreWebApp-bai13/ASPNetCoreForms/Views/Home/Create.cshtml]
+[D:/CongNgheNet/sample/MVCCoreWebApp/ASPNetCoreForms/Views/Home/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CongNgheNet/sample/MVCCoreWebApp-bai13/ASPNetCoreForms/Views/Home/Edit.cshtml]
+[D:/CongNgheNet/sample/MVCCoreWebApp/ASPNetCoreForms/Views/Home/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CongNgheNet/sample/MVCCoreWebApp-bai13/ASPNetCoreForms/Views/Home/FormAndQuery.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JtQW5kUXVlcnkuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/CongNgheNet/sample/MVCCoreWebApp-bai13/ASPNetCoreForms/Views/Home/Index.cshtml]
+[D:/CongNgheNet/sample/MVCCoreWebApp/ASPNetCoreForms/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
