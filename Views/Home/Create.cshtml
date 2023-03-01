@@ -16,16 +16,24 @@
 <body>
     <h2>Create</h2>
 
-    <form action ="/Home/Create" method="post">
-        <label for="@Model.Name">Name</label>
-        <input type="text" id="Name" name="@Model.Name" />
+   <form asp-action ="Create" asp-controller ="Home" method="post">  
+      
+        <label asp-for="Name"></label>
+        <input   asp-for="Name" />
 
        
-        <label for="@Model.Rate">Rate</label>
-        <input type="text" id="Rate" name="@Model.Rate" />
+        <label asp-for="Rate"></label>
+        <input  asp-for="Rate" asp-format="{0:N0}" /> 
 
-        <label for="@Model.Rating">Rating</label>
-        <input type="text" id="Rating" name="@Model.Rating" />
+         <label asp-for="Rating"></label>
+        <input  asp-for="Rating" />
+
+        
+         <label asp-for="Email"></label>
+        <input  asp-for="Email" />
+
+        <label asp-for="CreatedDate"></label>
+        <input  asp-for="CreatedDate" />
      
         <input type="submit" name="submit" />
     </form>
